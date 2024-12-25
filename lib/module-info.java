@@ -1,0 +1,2 @@
+module flash.chat.flutte {
+}
